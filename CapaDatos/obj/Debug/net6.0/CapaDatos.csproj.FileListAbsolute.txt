@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\bin\Debug\net6.0\CapaEntity.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\bin\Debug\net6.0\CapaEntity.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll

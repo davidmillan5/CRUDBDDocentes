@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaReglasNeg.deps.json
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaReglasNeg.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaReglasNeg.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaEntity.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\bin\Debug\net6.0\CapaEntity.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.AssemblyInfo.cs
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.csproj.CopyComplete
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\refint\CapaReglasNeg.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\CapaReglasNeg.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaReglasNeg\obj\Debug\net6.0\ref\CapaReglasNeg.dll

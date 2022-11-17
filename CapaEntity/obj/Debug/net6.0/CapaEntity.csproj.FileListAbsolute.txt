@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\bin\Debug\net6.0\CapaEntity.deps.json
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\bin\Debug\net6.0\CapaEntity.runtimeconfig.json
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\bin\Debug\net6.0\CapaEntity.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\bin\Debug\net6.0\CapaEntity.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.AssemblyInfo.cs
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\refint\CapaEntity.dll
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.pdb
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\CapaEntity.genruntimeconfig.cache
+C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\Clase #13\DocentesCrud\CapaEntity\obj\Debug\net6.0\ref\CapaEntity.dll

@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DocentesApp</title>
+    
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"/> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css"/>
+    
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    
+
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-custom navbar-mainbg">
+      <a class="navbar-brand navbar-logo" href="#">Asignación Academica</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <i class="fas fa-bars text-white"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <div class="hori-selector">
+            <div class="left"></div>
+            <div class="right"></div>
+          </div>
+          <li class="nav-item active">
+            <a class="nav-link" href="@Url.Action("Index","Home")"
+              ><i class="fas fa-tachometer-alt"></i>Dashboard</a
+            >
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="@Url.Action("Index","Docente")"
+              ><i class="far fa-address-book"></i>Docentes</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="@Url.Action("Index","Modulos")"
+              ><i class="far fa-clone"></i>Modulos</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="@Url.Action("Index","Grupos")"
+              ><i class="far fa-calendar-alt"></i>Grupos</a
+            >
+          </li>          
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0);"
+              ><i class="far fa-copy"></i>Informes</a
+            >
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0);"
+              ><i class="far fa-copy"></i>******</a
+            >
+          </li>
+
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+        @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - DocentesApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script>
+
+
+    <script src="~/js/dashboard.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+
+
+
+</body>
+</html>
+
